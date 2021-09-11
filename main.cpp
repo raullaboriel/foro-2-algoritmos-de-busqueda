@@ -25,7 +25,7 @@ int linearSearch(int list[], int start, int bounds, int key){
     return -1;
 }
 
-//Algorimo de busqueda binaria (para arreglos ordenados)
+//Algoritmo de busqueda binaria (para arreglos ordenados)
 int binarySearch(int array[], int x, int low, int high) {
   
 	// Repetir hasta que los punteros low y high se encuentren.
